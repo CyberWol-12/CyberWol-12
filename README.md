@@ -1,53 +1,69 @@
 <!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CyberWol-12/CyberWol-12/main/Gemini_Generated_Image_w53wmhw53wmhw53w.png" />
+  <img src="https://raw.githubusercontent.com/CyberWol-12/CyberWol-12/main/Gemini_Generated_Image_w53wmhw53wmhw53w.png" width="100%" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Divya Upadhyay</h2>
+<br>
 
-<p align="center">
-A passionate Data Science learner exploring the world of data, machine learning, and analytics.  
-I enjoy building projects, understanding patterns, and continuously improving my skills.  
-Always learning, always growing 🚀
+<!-- ==================== INTRO SECTION ==================== -->
+<table>
+<tr>
+<td width="55%">
+
+<h1>Hi 👋, I'm Divya Upadhyay</h1>
+
+<h3>🚀 Aspiring Data Scientist | ML Enthusiast | Problem Solver</h3>
+
+<p>
+I am a passionate Data Science learner from India 🇮🇳  
+I love turning raw data into meaningful insights and building impactful ML projects.  
+Currently focused on improving my skills in Machine Learning, SQL & Analytics.
 </p>
+
+<ul>
+<li>🔭 Working on real-world ML projects</li>
+<li>🌱 Learning Advanced Machine Learning & Data Analytics</li>
+<li>💬 Ask me about Python, SQL, Data Analysis</li>
+<li>🎯 Goal: Become a top Data Scientist</li>
+</ul>
+
+</td>
+
+<td width="45%" align="center">
+  <img src="https://github.com/CyberWol-12/CyberWol-12/blob/main/photo.png?raw=true" width="320"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 💬 About Me
-
-- 🔍 Ask me about **Data Science, Python, SQL**
-- 📫 Reach me at: **your-email@gmail.com**
-- 🎯 Currently focused on building real-world ML projects
-- ⚡ Fun fact: I love solving problems until I fully understand them!
-
----
-
-## 🌐 Connect with me:
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="mailto:YOUR_EMAIL">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
 
 ---
 
-## 🛠 Languages and Tools:
+## 🛠 Tech Stack
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberWol-12&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberWol-12&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberWol-12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberWol-12&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -55,5 +71,13 @@ Always learning, always growing 🚀
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWol-12&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWol-12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ✨ Quote I Believe In
+
+<p align="center">
+  <i>"Consistency and curiosity create extraordinary growth."</i>
 </p>
