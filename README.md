@@ -1,68 +1,70 @@
-<!-- ==================== HERO SECTION ==================== -->
-<table>
-<tr>
-<td width="60%">
+![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 
-<h2>Hi 👋, I'm Divya Upadhyay</h2>
+<h1 align="center">Hi 👋, I'm Divya Upadhyay</h1>
 
-<h4>Data Science Learner | ML Enthusiast | Problem Solver</h4>
+<h3 align="center">
+Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning—welcome to my GitHub
+</h3>
 
-<p>
-Passionate about transforming data into insights.  
-Currently building real-world Machine Learning & Analytics projects.
+<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CyberWol-12&label=Profile%20views&color=0e75b6&style=flat" alt="CyberWol-12" />
 </p>
 
-<ul>
-<li>🔭 Working on ML & Data Projects</li>
-<li>🌱 Learning Advanced ML & SQL</li>
-<li>💬 Ask me about Python, SQL, Data Analysis</li>
-<li>🎯 Goal: Become a top Data Scientist</li>
-</ul>
-
-</td>
-
-<td width="40%" align="right">
-
-<img src="https://github.com/CyberWol-12/CyberWol-12/blob/main/photo.png?raw=true" width="260"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 Connect
-
-<p>
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="35"/>
-</a>
+<p align="left">
+  <a href="https://twitter.com/CyberWol-12" target="blank">
+    <img src="https://img.shields.io/twitter/follow/CyberWol-12?logo=twitter&style=for-the-badge" alt="CyberWol-12" />
+  </a>
 </p>
 
----
+- 💬 Ask me about **Data Science, Python, PostgreSQL**
+- 📫 How to reach ---
+- MY- EMAIL = divyau0802@gmail.com
+- ⚡ Fun fact **My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!**
 
-## 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/CyberWol-12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CyberWol-12" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/divya-upadhyay-a77060348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/29832295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
+  <a href="https://kaggle.com/@CyberWol-12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://medium.com/@CyberWol-12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/CyberWol-12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-## 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=CyberWol-12&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberWol-12&theme=tokyonight&hide_border=true" height="160"/>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
 </p>
 
----
-
-## 📈 Top Languages
-
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberWol-12&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberWol-12&show_icons=true&locale=en&layout=compact" alt="CyberWol-12" />
 </p>
